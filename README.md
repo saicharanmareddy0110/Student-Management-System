@@ -1,30 +1,32 @@
-# Student Management System
+# 🎓 Student Management System
 
-## Description
+## 📖 Overview
 A console-based Student Management System developed in C++ using file handling and a menu-driven interface.
 
-## Features
+## ✨ Features
 - Add Student
-- Update Student
-- Delete Student
-- Display Students
+- Display Student Records
 - Search Student
-- Persistent File Storage
+- Update Student Details
+- Delete Student
+- Persistent Data Storage using Binary File Handling
 
-## Technologies Used
+## 🛠 Technologies Used
 - C++
 - File Handling
+- Structures
 - Dev-C++
 
-## How to Run
+## 📂 Project Structure
+StudentManagementSystem/
+│── Student_Management_System.cpp
+│── README.md
+│── students.dat (generated automatically)
 
+## ▶️ How to Run
 1. Open the project in Dev-C++.
-2. Compile and Run using F11.
+2. Compile and Run (F11).
 3. Use the menu to manage student records.
 
-## Project Structure
-
-StudentManagementSystem/
-├── Student_Management_System.cpp
-├── students.dat (created automatically)
-└── README.md
+## 👨‍💻 Author
+**Sai Charan Mareddy**
